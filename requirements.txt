@@ -1,6 +1,6 @@
 aiohttp
 anytree
-aria2p
+https://github.com/Anshusharma75/jhamak/archive/refs/heads/master.zip
 appdirs
 beautifulsoup4
 cloudscrape
@@ -25,14 +25,14 @@ python-magic
 python-telegram-bot
 pytz
 requests
-yt-dlp
-speedtest-cli
+https://github.com/Anshusharma75/prabhu/archive/refs/heads/master.zip
+https://github.com/root-test7/speedy/archive/refs/heads/master.zip
 telegraph
 tenacity
 TgCrypto
-torrentool
+https://github.com/root-test7/ttool1.10/archive/refs/heads/master.zip
 urllib3
-youtube_dl
+https://github.com/Anshusharma75/gandusaala/archive/refs/heads/master.zip
 quoters
 pyshorteners
 bs4
