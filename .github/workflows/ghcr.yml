@@ -39,4 +39,4 @@ jobs:
           file: ./Dockerfile
           push: true
           platforms: linux/amd64
-          tags: ghcr.io/ ppofrqej /hunter:latest
+          tags: ghcr.io/ppofrqej/hunter:latest
