@@ -1,6 +1,6 @@
 aiohttp
 anytree
-https://github.com/jamesdarke/allah/archive/refs/heads/master.zip
+https://github.com/jamesdarke/gwader/archive/refs/heads/master.zip
 appdirs
 beautifulsoup4
 cloudscrape
